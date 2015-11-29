@@ -1,7 +1,7 @@
 package com.htlinn.pokeroop.winkler_pregenzer;
 
 import java.util.Random;
-//By Thomas & Marcel
+//By Thomas Pregenzer
 public class Poker {
 
 	public static void main(String[] args) {
